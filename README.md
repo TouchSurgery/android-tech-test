@@ -9,8 +9,8 @@ This should be the home page of the app. It should have a list of procedures car
 This page should present the details of the procedure selected. There should be a card image at the top of the page, the title of the procedure and then the list of phases for the procedure. Each phase should contain a thumbnail image and a name. This information can be acquired from the [procedure details endpoint](#Endpoints) with the procedure id as a parameter, e.g procedures/procedure-ETH_WedgeRes
 
 ## Instructions:
-- This is your fork of the project. Feel free to push to main.
-- Upon completion, email us to let us know you have finished.
+- This is your fork of the project. Feel free to push to the main branch.
+- Upon completion, push to main and email us to let us know you have finished.
 - Do not include build folders or IDE specific files.
 
 ## Endpoints
