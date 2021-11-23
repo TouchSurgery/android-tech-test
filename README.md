@@ -1,8 +1,6 @@
 # Digital Surgery Android Tech Test
 
-We would like you to spend a few hours on the following technical task:
-
-Create an app with two screens:
+We would like you to spend a few hours on the following technical task - create an Android application with two screens.
 
 ### Procedure Page
 This should be the home page of the app. It should have a list of procedures cards/cells, each with a thumbnail image and a name. This information can be acquired from the [procedures endpoint](#Endpoints). Clicking on one of the procedure cards/cells should take the user to the next page.
