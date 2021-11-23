@@ -16,10 +16,10 @@ This page should present the details of the procedure selected. There should be 
 - Do not include build folders or IDE specific files.
 
 # Endpoints
-- The procedures list will be available at `https://staging.touchsurgery.com/tech-test/procedures` 
-- Procedure details are available at `https://staging.touchsurgery.com/tech-test/procedures/$PROCEDURE_ID`
+- The procedures list will be available at `https://staging.touchsurgery.com/api/v3/procedures` 
+- Procedure details are available at `https://staging.touchsurgery.com/api/v3/procedures/$PROCEDURE_ID`
 
-For example `https://staging.touchsurgery.com/tech-test/procedures/procedure-TSC_CemCup`
+For example `https://staging.touchsurgery.com/api/v3/procedures/procedure-TSC_CemCup`
 
 # Technologies to use:
 You will be joining an existing team with existing technology. We are interested in gauging how well you use those technologies, so if we do not see them addressed here we will discuss them in the interviews. These technologies include, but are not limited to: 
