@@ -19,7 +19,7 @@ This page should present the details of the procedure selected. There should be 
 
 For example `https://staging.touchsurgery.com/api/v3/procedures/procedure-TSC_CemCup`
 
-## Technologies to use:
+## Technologies & techniques to use:
 You will be joining an existing team with existing technology. We are interested in gauging how well you use those technologies, so if we do not see them addressed here we will discuss them in the interviews. These technologies include, but are not limited to: 
 Dependency injection with Dagger/Hilt, Room, Coroutines, Retrofit, UI testing with Espresso, MVVM, and unit testing.
 We do not expect you to be able to come in on day one and do everything straight away, but familiarity with these technologies helps significantly, especially for senior candidates.
