@@ -23,7 +23,7 @@ For example `https://staging.touchsurgery.com/tech-test/procedures/procedure-TSC
 
 # Technologies to use:
 You will be joining an existing team with existing technology. We are interested in gauging how well you use those technologies, so if we do not see them addressed here we will discuss them in the interviews. These technologies include, but are not limited to: 
-Dependency injection with Dagger/Hilt, Room, Coroutines, OkHttp, Espresso, MVVM, unit testing, integration testing, UI testing.
+Dependency injection with Dagger/Hilt, Room, Coroutines, Retrofit, UI testing with Espresso, MVVM, and unit testing.
 We do not expect you to be able to come in on day one and do everything straight away, but familiarity with these technologies helps significantly, especially for senior candidates.
 We are interested in how you architect mobile applications so pay attention to which design pattern to use and be prepared to answer questions about why you chose the pattern you did.
 A good architecture would be highly appreciated.
