@@ -1,4 +1,4 @@
-# Digital Surger Android Tech Test
+# Digital Surgery Android Tech Test
 
 We would like you to spend a few hours on the following technical task:
 
