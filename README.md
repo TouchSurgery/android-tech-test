@@ -20,8 +20,9 @@ This page should present the details of the procedure selected. There should be 
 For example `https://staging.touchsurgery.com/api/v3/procedures/procedure-TSC_CemCup`
 
 ## Technologies & techniques to use:
-You will be joining an existing team with existing technology. We are interested in gauging how well you use those technologies, so if we do not see them addressed here we will discuss them in the interviews. These technologies include, but are not limited to: 
+You will be joining an existing team with existing technology. We are interested in gauging how well you use those technologies, so if we do not see them addressed here we will discuss them in the interviews. These technologies include, but are not limited to:
 Dependency injection with Dagger/Hilt, Room, Coroutines, Retrofit, UI testing with Espresso, MVVM, and unit testing.
+In the Touch Surgery app, all modern development is done with Coroutines and Jetpack Compose, however we still have plenty of RxJava and Android Views / XML based layouts. Use whichever you think will give you the cleanest results given your ability.
 We do not expect you to be able to come in on day one and do everything straight away, but familiarity with these technologies helps significantly, especially for senior candidates.
 We are interested in how you architect mobile applications so pay attention to which design pattern to use and be prepared to answer questions about why you chose the pattern you did.
 A good architecture would be highly appreciated.
